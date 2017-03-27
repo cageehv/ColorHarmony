@@ -1,5 +1,5 @@
 # ColorHarmony
-Harmonized Color Palette Generator library for http://processing.org v2.x and v3.x, developed by Rolf van Gelder / CAGE Web Design.
+Harmonized Color Palette Generator library for http://processing.org v2.x and v3.x.
 
 Developed by:
 Rolf van Gelder / CAGE Web Design
